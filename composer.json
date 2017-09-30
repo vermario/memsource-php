@@ -1,5 +1,5 @@
 {
-  "name": "wunder/memsource-php",
+  "name": "vermario/memsource-php",
   "description": "Memsource API PHP client",
   "type": "library",
   "require": {
